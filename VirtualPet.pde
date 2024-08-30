@@ -45,5 +45,26 @@ rotate(PI/9+PI/6);
 fill(0,0,0);
 ellipse(200,190,145,140);
 
+
+//ears
+fill(0,0,0);
+ellipse(155,50,60,60);
+ellipse(245,50,60,60);
+
+//face
+fill(255,255,255);
+ellipse(200,100,130,130);
+
+//eyes and nose and mouth
+fill(10,10,10);
+ellipse(180,90,20,30);
+ellipse(220,90,20,30);
+arc(201,105,18,20,0, PI);
+arc(200,120,30,10,0,PI);
+rect(197,110,5,10);
+fill(255,255,255);
+ellipse(180,87,5,5);
+ellipse(220,87,5,5);
+
 }
 
