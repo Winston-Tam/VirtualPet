@@ -52,7 +52,7 @@ ellipse(245,50,60,60);
 
 //face
 fill(255,255,255);
-circle(200,100,130);
+ellipse(200,100,130,130);
 
 //eyes and nose and mouth
 fill(10,10,10);
